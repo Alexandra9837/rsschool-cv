@@ -20,3 +20,9 @@ title: Aliaksandra Makhakhey
 * neatness and attentiveness
 * excellent written and verbal communication skills
 ---
+## Skills
+1. CSS
+2. HTML
+---
+## Language
++ English(B1)
